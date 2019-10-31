@@ -5,5 +5,5 @@ This project was built with the help of the OMDB api. I'm new to React, but foun
 
 # OMDB Api
 
-[Here] (http://www.omdbapi.com/)is the resource to the OMDB api
+[Here](http://www.omdbapi.com/) is the resource to the OMDB api
 

@@ -17,7 +17,7 @@ To run the application run the command:
 ``` npm start ``` 
 
 # Visit the Project/API:
-[Project](https://finnfilmen.firebaseapp.com/)
+[Project Website](https://finnfilmen.firebaseapp.com/)
 
 [API](http://www.omdbapi.com/)
 

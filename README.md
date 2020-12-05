@@ -1,6 +1,6 @@
 ![MOOVDB](/MOVDB.png)
 
-# Applicaton
+#  📽  Applicaton
 The project has been developed out of curiousity for API's in React and utilizing data provided. 
 
 ## Frontend

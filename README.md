@@ -1,9 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project has been developed out of curiousity for API's in React and utilizing data provided. 
 
-# Small Project
-This project was built with the help of the OMDB api. I'm new to React, but found great pleasure in utilizing this, and learning more about the framework.
+# Frontend
+The Frontend was built using the React Framework. 
 
 # OMDB Api
 
-[Here](http://www.omdbapi.com/) is the resource to the OMDB api
+[Here](http://www.omdbapi.com/)
 

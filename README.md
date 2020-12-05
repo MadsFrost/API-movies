@@ -1,5 +1,5 @@
 The project has been developed out of curiousity for API's in React and utilizing data provided. 
-
+![GitHub Logo](/images/github-logo.png)
 # Frontend
 The Frontend was built using the React Framework and Google Firebase Application.
 

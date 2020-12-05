@@ -18,6 +18,7 @@ To run the application run the command:
 
 # Visit the Project/API:
 [Project](https://finnfilmen.firebaseapp.com/)
+
 [API](http://www.omdbapi.com/)
 
 

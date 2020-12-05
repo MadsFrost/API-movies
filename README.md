@@ -3,7 +3,7 @@
 #  📽  Applicaton
 The project has been developed out of curiousity for API's in React and utilizing data provided. 
 
-## Frontend
+## 🖹 Frontend
 The Frontend was built using the React Framework and Google Firebase Application.
 
 ## To start the Application:

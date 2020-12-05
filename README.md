@@ -3,9 +3,19 @@ The project has been developed out of curiousity for API's in React and utilizin
 # Frontend
 The Frontend was built using the React Framework and Google Firebase Application.
 
-# Visit the Website:
-[Finn Filmen](https://www.finnfilmen.firebaseapp.com)
-# OMDB Api
+## To start the Application:
+### Install node-modules
+To install the node-modules required such as react-router and fetch libraries run the command:
 
-[Here](http://www.omdbapi.com/)
+``` npm i ``` 
+### Run the application
+To run the application run the command:
+
+``` npm start ``` 
+
+# Visit the Project/API:
+[Project](https://finnfilmen.firebaseapp.com/)
+[API](http://www.omdbapi.com/)
+
+
 

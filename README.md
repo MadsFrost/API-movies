@@ -4,7 +4,7 @@ The project has been developed out of curiousity for API's in React and utilizin
 The Frontend was built using the React Framework and Google Firebase Application.
 
 # Visit the Website:
-[Finn Filmen](http://www.finnfilmen.firebaseapp.com)
+[Finn Filmen](https://www.finnfilmen.firebaseapp.com)
 # OMDB Api
 
 [Here](http://www.omdbapi.com/)
